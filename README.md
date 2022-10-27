@@ -7,8 +7,8 @@
 * This tool was specially useful for planning long marine works at the London Tideway Project.
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
 [CODE](https://github.com/FranciscoGabrielMiranda/Tide_predictions/blob/main/Tide_predictions.ipynb)
-<br />
-<br />
+
+
 ![](/images/tide_predictions_image.png)
 <br />
 <br />

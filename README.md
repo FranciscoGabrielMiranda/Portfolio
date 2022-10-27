@@ -1,6 +1,6 @@
 # Portfolio
 
-## [Project 1: Tide calculator](https://github.com/FranciscoGabrielMiranda/Tide_predictions)
+## Project 1: Tide calculator
 * Marine and river works need to be planned considering tide heights.
 * Reading manually from tide tables booklets is not practical for extended analysis periods.
 * This tool allows to quikly estimate intervals when tide heights are below a set limit, between two given dates, and a given working schedule.
@@ -15,7 +15,7 @@
 <br />
 <br />
 <br />
-## [Project 2: Booking cancellation case study](https://github.com/FranciscoGabrielMiranda/Hotel_bookings_cancellations)
+## Project 2: Booking cancellation case study
 * A significant number of hotel bookings are called off because of cancellations and no-shows.
 * Revenue losses can be high when free cancellation options or low cost penalties apply, particularly on last-minute cancellations. 
 * A dataset containing information of hotel bookings is used to build ML models to predict cancellations.
@@ -25,7 +25,7 @@
 
 
 ![](/images/booking_case_study_image.png)
-## [Project 3: Weather patterns](https://github.com/FranciscoGabrielMiranda/Weather_patterns)
+## Project 3: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
 *  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br /><br />

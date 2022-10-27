@@ -5,8 +5,7 @@
 * Reading manually from tide tables booklets is not practical for extended analysis periods.
 * This tool allows to quikly estimate intervals when tide heights are below a set limit, between two given dates, and a given working schedule.
 * This tool was specially useful for planning long marine works at the London Tideway Project.
-* River Thames tide tables are publicly available for download from the PLA.<br />
-<br />
+* River Thames tide tables are publicly available for download from the PLA.<br /><br />
 [CODE](https://github.com/FranciscoGabrielMiranda/Tide_predictions/blob/main/Tide_predictions.ipynb)
 <br />
 <br />

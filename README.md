@@ -28,7 +28,9 @@
 ## [Project 3: Weather patterns](https://github.com/FranciscoGabrielMiranda/Weather_patterns)
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
-*  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).
+*  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br />
+
+**[CODE](https://github.com/FranciscoGabrielMiranda/Weather_patterns/blob/main/Weather%20Patterns.ipynb)**
 
 
 ![](/images/weather_patterns_image_1.png)

@@ -8,7 +8,7 @@
 * River Thames tide tables are publicly available for download from the PLA.
 
 
-![](https://github.com/FranciscoGabrielMiranda/portfolio/blob/main/images/tide_predictions_image.png)
+![](/images/tide_predictions_image.png)
 <br />
 <br />
 <br />
@@ -21,7 +21,7 @@
 * A logistic regression and a decision tree help to find the factors affecting bookings cancellations.
 
 
-![](https://github.com/FranciscoGabrielMiranda/portfolio/blob/main/images/booking_case_study_image.png)
+![](/images/booking_case_study_image.png)
 ## [Project 3: Weather patterns](https://github.com/FranciscoGabrielMiranda/Weather_patterns)
 * Weather patterns over long periods can be clearly appreciated on plots and graphs.
 * A dataset contains daily maximum and minimum (high-low) temperatures corresponding to 24 weather stations near Ann Arbor, Michigan, United States.
@@ -29,4 +29,4 @@
 * The dataset comes from The National Centers for Environmental Information (NCEI).
 
 
-![](https://github.com/FranciscoGabrielMiranda/portfolio/blob/main/images/weather_patterns_image_1.png)
+![](/images/weather_patterns_image_1.png)

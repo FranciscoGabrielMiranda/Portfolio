@@ -8,6 +8,7 @@
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
 **[CODE](https://github.com/FranciscoGabrielMiranda/Tide_predictions/blob/main/Tide_predictions.ipynb)**<br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/caabd43e1f2fd6ce4a84ea27c33be264#8)**
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**
 
 
 ![](/images/tide_predictions_image.png)

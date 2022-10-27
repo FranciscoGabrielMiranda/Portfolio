@@ -14,7 +14,7 @@
 <br />
 <br />
 <br />
-
+<br />
 ## [Project 2: Booking cancellation case study](https://github.com/FranciscoGabrielMiranda/Hotel_bookings_cancellations)
 * A significant number of hotel bookings are called off because of cancellations and no-shows.
 * Revenue losses can be high when free cancellation options or low cost penalties apply, particularly on last-minute cancellations. 

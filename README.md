@@ -6,8 +6,6 @@
 * This tool allows to quikly estimate intervals when tide heights are below a set limit, between two given dates, and a given working schedule.
 * This tool was specially useful for planning long marine works at the London Tideway Project.
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
-**[CODE](https://github.com/FranciscoGabrielMiranda/Tide_predictions/blob/main/Tide_predictions.ipynb)**<br />
-**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/caabd43e1f2fd6ce4a84ea27c33be264#8)**<br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**
 
 
@@ -31,7 +29,6 @@
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
 *  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br /><br />
-**[CODE](https://github.com/FranciscoGabrielMiranda/Weather_patterns/blob/main/Weather%20Patterns.ipynb)**
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/61f708a5b9f46d12c021a0209fdcfadf)**
 
 

@@ -6,7 +6,7 @@
 * This tool allows to quikly estimate intervals when tide heights are below a set limit, between two given dates, and a given working schedule.
 * This tool was specially useful for planning long marine works at the London Tideway Project.
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
-**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**{:target="_blank" rel="noopener"}
 
 
 ![](/images/tide_predictions_image.png)
@@ -21,14 +21,14 @@
 * A dataset containing information of hotel bookings is used to build ML models to predict cancellations.
 * A logistic regression and a decision tree help to find the factors affecting bookings cancellations.
 * Cross validation and grid search were performed for both ML models.<br /><br />
-**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**{:target="_blank" rel="noopener"}
 
 ![](/images/booking_case_study_image.png)
 ## Project 3: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
 *  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br /><br />
-**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/61f708a5b9f46d12c021a0209fdcfadf)**
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/61f708a5b9f46d12c021a0209fdcfadf)**{:target="_blank" rel="noopener"}
 
 
 ![](/images/weather_patterns_image_1.png)

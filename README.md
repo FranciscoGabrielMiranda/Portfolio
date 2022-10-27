@@ -12,7 +12,7 @@
 <br />
 <br />
 <br />
-
+<br />
 
 ## [Project 2: Booking cancellation case study](https://github.com/FranciscoGabrielMiranda/Hotel_bookings_cancellations)
 * A significant number of hotel bookings are called off because of cancellations and no-shows.

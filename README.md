@@ -21,8 +21,7 @@
 * A dataset containing information of hotel bookings is used to build ML models to predict cancellations.
 * A logistic regression and a decision tree help to find the factors affecting bookings cancellations.
 * Cross validation and grid search were performed for both ML models.<br /><br />
-**[CODE](https://github.com/FranciscoGabrielMiranda/Hotel_bookings_cancellations/blob/main/Booking%20Cancellation%20Case%20Study.ipynb)**
-
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**
 
 ![](/images/booking_case_study_image.png)
 ## Project 3: Weather patterns

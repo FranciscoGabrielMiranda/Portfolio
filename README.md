@@ -1,7 +1,7 @@
 # Portfolio
 
 ## [Project 1: Tide calculator](https://github.com/FranciscoGabrielMiranda/Tide_predictions)
-* Marine works need to be planned considering tide heights.
+* Marine and river works need to be planned considering tide heights.
 * Reading manually from tide tables booklets is not practical for extended analysis periods.
 * This tool allows to quikly estimate intervals when tide heights are below a set limit, between two given dates, and a given working schedule.
 * This tool was specially useful for planning long marine works at the London Tideway Project.

@@ -32,8 +32,7 @@
 *  Total profit objective function to be maximised. <br /><br />
 
 
-![](/images/optimization.png)
-
+![](/images/optimization.png width="50%" height="50%")
 
 
 ## Project 4: Weather patterns

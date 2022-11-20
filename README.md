@@ -32,11 +32,7 @@
 *  Total profit objective function to be maximised. <br /><br />
 
 
-![](/images/optimization.png)
-
-
-
-<img src="/images/optimization.png" width="70%" height="70%">
+<img src="/images/optimization.png" width="50%" height="50%">
 
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).

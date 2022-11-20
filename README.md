@@ -9,7 +9,7 @@
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
 
 
-![](/images/tide_predictions_image_3.png)
+![](/images/tide_predictions_image.png)
 <br />
 <br />
 <br />
@@ -23,7 +23,7 @@
 * Cross validation and grid search were performed for both ML models.<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**
 
-![](/images/booking_case_study_image.png)
+![](/images/booking_case_study_image_3.png)
 <br />
 <br />
 <br />

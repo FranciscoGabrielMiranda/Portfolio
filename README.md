@@ -7,8 +7,7 @@
 * This tool was specially useful for planning long marine works at the London Tideway Project.
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
-![](/images/tide_predictions_image.png)
-<br />
+![](/images/tide_predictions_image.png)<br />
 ## Project 2: Booking cancellation case study
 * A significant number of hotel bookings are called off because of cancellations and no-shows.
 * Revenue losses can be high when free cancellation options or low cost penalties apply, particularly on last-minute cancellations. 
@@ -16,16 +15,14 @@
 * A logistic regression and a decision tree help to find the factors affecting bookings cancellations.
 * Cross validation and grid search were performed for both ML models.<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**<br />
-![](/images/booking_case_study_image_3.png)
-<br />
+![](/images/booking_case_study_image_3.png)<br />
 ## Project 3: Optimization
 *  Products X and Y to be produced through two assembly lines sharing one packaging line.
 *  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.
 *  Total output constrained by the capacity of the shared packaging line.
 *  Total profit objective function to be maximised. <br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/6d389bf6280dc215f596d6421e023c46)**<br />
-<img src="/images/optimization.png" width="60%">
-<br />
+<img src="/images/optimization.png" width="60%"><br />
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.

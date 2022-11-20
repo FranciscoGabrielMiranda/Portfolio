@@ -32,8 +32,8 @@
 *  Total profit objective function to be maximised. <br /><br />
 
 
-![](/images/optimization.png width="50%" height="50%")
-<img src="https://images/optimization.png" width="100" height="100">
+![](/images/optimization.png)
+<img src="/images/optimization.png" width="50" height="50">
 ![image](https://your-image-url.type) with <img src="https://images/optimization.png" width="100" height="100">
 
 ## Project 4: Weather patterns

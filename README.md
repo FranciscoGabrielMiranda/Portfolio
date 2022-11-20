@@ -22,7 +22,7 @@
 *  Total output constrained by the capacity of the shared packaging line.
 *  Total profit objective function to be maximised. <br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/6d389bf6280dc215f596d6421e023c46)**<br />
-<img src="/images/optimization.png" width="50%"><br />
+<img src="/images/optimization.png" width="60%"><br />
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.

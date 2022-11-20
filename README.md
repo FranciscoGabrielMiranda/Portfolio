@@ -24,7 +24,19 @@
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**
 
 ![](/images/booking_case_study_image.png)
-## Project 3: Weather patterns
+
+## Project 3: Optimization
+*  Products X and Y to be produced through two assembly lines sharing one packaging line.
+*  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.
+*  Total output constrained by the capacity of the shared packaging line.
+*  Total profit objective function to be maximised. <br /><br />
+
+
+![](/images/optimization.png)
+
+
+
+## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
 *  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br /><br />

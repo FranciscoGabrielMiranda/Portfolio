@@ -9,7 +9,7 @@
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
 
 
-![](/images/tide_predictions_image.png)
+![](/images/tide_predictions_image_3.png)
 <br />
 <br />
 <br />

@@ -23,7 +23,7 @@
 *  Total profit objective function to be maximised. <br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/6d389bf6280dc215f596d6421e023c46)**<br />
 ![](/images/optimization.png)
-![img|320x271](/images/optimization.png)
+![img|100x100](/images/optimization.png)
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.

@@ -11,10 +11,6 @@
 
 ![](/images/tide_predictions_image.png)
 <br />
-<br />
-<br />
-<br />
-<br />
 ## Project 2: Booking cancellation case study
 * A significant number of hotel bookings are called off because of cancellations and no-shows.
 * Revenue losses can be high when free cancellation options or low cost penalties apply, particularly on last-minute cancellations. 
@@ -25,10 +21,7 @@
 
 ![](/images/booking_case_study_image_3.png)
 <br />
-<br />
-<br />
-<br />
-<br />
+
 ## Project 3: Optimization
 *  Products X and Y to be produced through two assembly lines sharing one packaging line.
 *  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.

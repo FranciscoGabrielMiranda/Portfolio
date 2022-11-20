@@ -36,7 +36,7 @@
 
 
 
-<img src="/images/optimization.png" width="100" height="100">
+<img src="/images/optimization.png" width="70%" height="70%">
 
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).

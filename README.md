@@ -8,7 +8,6 @@
 * River Thames tide tables are publicly available for download from the PLA.<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
 
-
 ![](/images/tide_predictions_image.png)
 <br />
 ## Project 2: Booking cancellation case study
@@ -21,7 +20,6 @@
 
 ![](/images/booking_case_study_image_3.png)
 <br />
-
 ## Project 3: Optimization
 *  Products X and Y to be produced through two assembly lines sharing one packaging line.
 *  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.
@@ -30,12 +28,11 @@
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/6d389bf6280dc215f596d6421e023c46)**
 
 <img src="/images/optimization.png" width="50%" height="50%">
-
+<br />
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.
 *  Periods of extraordinary weather conditions reveal on a scatter plot, showing temperatures registered in 2015 breaking the previous 10-year high-low records (2005-2014).<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/61f708a5b9f46d12c021a0209fdcfadf)**
-
 
 ![](/images/weather_patterns_image_1.png)

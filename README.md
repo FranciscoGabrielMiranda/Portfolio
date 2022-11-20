@@ -24,7 +24,11 @@
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/7ee59c5577ee39fef172806676b6bf0f)**
 
 ![](/images/booking_case_study_image.png)
-
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Project 3: Optimization
 *  Products X and Y to be produced through two assembly lines sharing one packaging line.
 *  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.

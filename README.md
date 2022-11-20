@@ -29,6 +29,7 @@
 
 <img src="/images/optimization.png" width="50%" height="50%">
 <br />
+<br />
 ## Project 4: Weather patterns
 *  Data was sourced from The National Centers for Environmental Information (NCEI).
 *  Daily maximum and minimum (high-low) temperatures from 24 weather stations near Ann Arbor (Michigan, United States) was analyzed.

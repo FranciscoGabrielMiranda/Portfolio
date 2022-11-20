@@ -30,7 +30,7 @@
 *  Production volumes on each assembly line are bounded by minimum demands and maximum capacities.
 *  Total output constrained by the capacity of the shared packaging line.
 *  Total profit objective function to be maximised. <br /><br />
-
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/6d389bf6280dc215f596d6421e023c46)**
 
 <img src="/images/optimization.png" width="50%" height="50%">
 

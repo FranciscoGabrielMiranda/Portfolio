@@ -5,7 +5,7 @@
 * The data has been plotted statically and in interactive plots, showing the listings prices scattered on the map, and also aggregated grouped by neighbour.
 * Interactives plots have been done using Geopandas and Folium.Marine and river works need to be planned considering tide heights.<br /><br />
 **[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
-![](/images/Airbnb_Bs_As.png)<br /><br />
+![](/images/Airbnb_Bs_As.jpg)<br /><br />
 ## Project 2: Tide calculator
 * Marine and river works need to be planned considering tide heights.
 * Reading manually from tide tables booklets is not practical for extended analysis periods.

@@ -2,10 +2,10 @@
 
 ## Project 1: Geopandas Airbnb in Buenos Aires
 * Airbnb quaterly listings for Buenos Aires have been analized in order to find the most demanded neighbourhoods and their average prices.
-* The data has been plotted statically and in interactive plots, showing the listings prices on the map, and also aggregated grouped by neighbour.
+* The data has been plotted statically and in interactive plots, showing the listings prices scattered on the map, and also aggregated grouped by neighbour.
 * Interactives plots have been done using Geopandas and Folium.<br /><br />
-**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/9f1c60ed67315efc1fa440da26519085)**<br />
-![](/images/Buenos_Aires.png)<br /><br />
+**[CODE](https://nbviewer.org/gist/FranciscoGabrielMiranda/95ae3c84f611969e3b9f0905c6f10be0)**<br />
+![](/images/Buenos_aires.png)<br /><br />
 ## Project 2: Tide calculator
 * Marine and river works need to be planned considering tide heights.
 * Reading manually from tide tables booklets is not practical for extended analysis periods.
